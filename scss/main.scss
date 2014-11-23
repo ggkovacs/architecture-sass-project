@@ -10,11 +10,11 @@
 @import 'vendors/bootstrap';
 @import 'vendors/jquery-ui';
 
-// Utils
-@import 'utils/variables';
-@import 'utils/functions';
-@import 'utils/mixins';
-@import 'utils/helpers';
+// Globals
+@import 'globals/variables';
+@import 'globals/functions';
+@import 'globals/mixins';
+@import 'globals/helpers';
 
 // Components
 @import 'components/buttons';

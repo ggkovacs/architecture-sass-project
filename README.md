@@ -1,5 +1,5 @@
 # Architecture [Sass](http://sass-lang.com) (scss) project
-Version: **0.0.2**
+Version: **0.0.3**
 
 ## Directory structure
 
@@ -53,7 +53,7 @@ Version: **0.0.2**
 - `_reset.scss` or `_normalize.scss`
 - `_typography.scss`
 
-### Components
+### Components or Modules
 
 ...
 
@@ -67,7 +67,7 @@ Version: **0.0.2**
 - `_thumbnails.scss`
 - `_icons.scss`
 
-### Globals
+### Globals or Utils
 
 ...
 
@@ -91,7 +91,7 @@ Version: **0.0.2**
 - `_navigation.scss`
 - `_sidebar.scss`
 
-### Widgets
+### Widgets or Sections or Pages
 
 ...
 
