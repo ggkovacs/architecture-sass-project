@@ -33,7 +33,7 @@ Version: **0.0.3**
     |   |   |-- ...                 # Etc.
     |   |
     |   |-- widgets
-    |   |   |-- _betslip.scss       # Betlsip specific styles
+    |   |   |-- _betslip.scss       # Betslip specific styles
     |   |   |-- ...                 # Etc.
     |   |
     |   |-- vendors
