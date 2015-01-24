@@ -1,5 +1,5 @@
 # Architecture [Sass](http://sass-lang.com) (scss) project
-Version: **0.0.3**
+Version: **1.0.0**
 
 ## Directory structure
 
@@ -9,7 +9,7 @@ Version: **0.0.3**
     |   |   |-- _typography.scss    # Typography rules
     |   |   |-- ...                 # Etc.
     |   |
-    |   |-- components
+    |   |-- components or modules
     |   |   |-- _buttons.scss       # Buttons
     |   |   |-- _carousel.scss      # Carousel
     |   |   |-- _cover.scss         # Cover
@@ -17,7 +17,7 @@ Version: **0.0.3**
     |   |   |-- _forms.scss         # Forms
     |   |   |-- ...                 # Etc.
     |   |
-    |   |-- globals
+    |   |-- globals or utils
     |   |   |-- _functions.scss     # Sass functions
     |   |   |-- _helpers.scss       # Class & placeholders helpers
     |   |   |-- _mixins.scss        # Sass mixins
@@ -32,7 +32,7 @@ Version: **0.0.3**
     |   |   |-- _sidebar.scss       # Sidebar
     |   |   |-- ...                 # Etc.
     |   |
-    |   |-- widgets
+    |   |-- widgets or sections or pages
     |   |   |-- _betslip.scss       # Betslip specific styles
     |   |   |-- ...                 # Etc.
     |   |
@@ -46,16 +46,12 @@ Version: **0.0.3**
 
 ### Base
 
-...
-
 #### Sample files
 
 - `_reset.scss` or `_normalize.scss`
 - `_typography.scss`
 
 ### Components or Modules
-
-...
 
 #### Sample files
 
@@ -69,8 +65,6 @@ Version: **0.0.3**
 
 ### Globals or Utils
 
-...
-
 #### Sample files
 
 - `_functions.scss`
@@ -80,8 +74,6 @@ Version: **0.0.3**
 - `_media.scss`
 
 ### Layout
-
-...
 
 #### Sample files
 
@@ -93,15 +85,15 @@ Version: **0.0.3**
 
 ### Widgets or Sections or Pages
 
-...
-
 #### Sample files
 
 - `_betslip.scss`
+- `_aside-links.scss`
+- `_balance-info.scss`
+- `_banner.scss`
+- `_calendar-events.scss`
 
 ### Vendors
-
-...
 
 #### Sample files
 
@@ -110,4 +102,4 @@ Version: **0.0.3**
 - `_select2.scss`
 
 # License
-MIT (c) 2014 Gergely Kovács (gg.kovacs@gmail.com)
+MIT (c) 2015 Gergely Kovács (gg.kovacs@gmail.com)
