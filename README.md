@@ -1,5 +1,5 @@
 # Architecture for a [Sass](http://sass-lang.com) Project
-Version: **2.0.0**
+Version: **1.1.0**
 
 ## Directory structure
 
