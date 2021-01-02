@@ -65,4 +65,4 @@ And last but not least, you will probably have a vendors/ folder containing all 
 - `_select2.{scss,sass}`
 
 # License
-MIT © 2018 Gergely Kovács (gg.kovacs@gmail.com)
+MIT © 2021 Gergely Kovács (gg.kovacs@gmail.com)
