@@ -1,4 +1,5 @@
 # Architecture for a [Sass](http://sass-lang.com) Project
+
 Version: **1.0.0**
 
 ## Directory structure
@@ -38,7 +39,7 @@ For smaller components, there is the components/ folder (frequently called modul
 
 ### Globals
 
-The globals/ folder (sometimes called utils/) gathers all Sass tools and helpers we’ll use across the project. Got a function? A mixin? Put it in there. This folder also contains a _variables.{scss,sass} file (sometimes _config.{scss,sass}) which holds all global variables for the project (for typography, color schemes, and so on).
+The globals/ folder (sometimes called utils/) gathers all Sass tools and helpers we’ll use across the project. Got a function? A mixin? Put it in there. This folder also contains a \_variables.{scss,sass} file (sometimes \_config.{scss,sass}) which holds all global variables for the project (for typography, color schemes, and so on).
 
 - `_functions.{scss,sass}`
 - `_helpers.{scss,sass}` or `_placeholders.{scss,sass}`
@@ -64,5 +65,6 @@ And last but not least, you will probably have a vendors/ folder containing all 
 - `_jquery-ui.{scss,sass}`
 - `_select2.{scss,sass}`
 
-# License
-MIT © 2018 Gergely Kovács (gg.kovacs@gmail.com)
+## License
+
+MIT © 2022 Gergely Kovács (gg.kovacs@gmail.com)
